@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=2nd+year+CS+student;Always+learning+new+things!)
 
-## 🚀 About Me
+## 🤖 About Me
 - 🎓 2nd-year Computer Science @ Flinders (GPA 6.87 / 7.00)
 - 💻 I build things with C++, Java, Python
 - 🌱 Learning web development & open-source
