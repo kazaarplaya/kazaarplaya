@@ -10,7 +10,6 @@ Currently seeking internship or cadetship opportunities for this year or late ne
 - ⚙️ Interests: networking, web development, data science, automation, and exploring new tech
 - 🕶 Hobbies: Volleyball, Guitar, PC Building
 - 🚀 Currently looking for internship & cadetship opportunities (2025)
-- 
 
 ## 📊 GitHub Stats
 ![Hans's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazaarplaya&show_icons=true&theme=radical)
