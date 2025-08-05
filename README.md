@@ -1,12 +1,12 @@
 # Hi, I'm Hans 👋
 
-I'm a 2nd-year Computer Science Honours student at Flinders University in Adelaide. I’m curious about many areas of computer science, so my projects tend to explore a bit of everything — from web development and data collection to software systems and automation. I enjoy learning new technologies and tackling challenging, rewarding problems. This is where I share my projects — follow along as I continue my academic journey! 🤌
+I'm a 2nd-year Computer Science Honours student at Flinders University in Adelaide. I’m curious about many areas of computer science, so my projects tend to explore a bit of everything, from web development and data collection to software systems and automation. I enjoy learning new technologies and tackling challenging, rewarding problems. This is where I share my projects — follow along as I continue my academic journey! 🤌
 
 Currently seeking internship or cadetship opportunities for this year or late next year (2025).
 
 ## 🤖 About Me
-- 🎓 2nd-year Computer Science Honours student @ Flinders (GPA 6.87 / 7.00)
-- 💻 I enjoy building with computers — from software systems to networks to data-driven web apps
+- 🎓 2nd-year Computer Science Honours student @ Flinders (GPA 6.91 / 7.00)
+- 💻 I enjoy building with computers - from software systems to networks to data-driven web apps
 - ⚙️ Interests: networking, web development, data science, automation, and exploring new tech
 - 🕶 Hobbies: Volleyball, Guitar, PC Building
 - 🚀 Currently looking for internship & cadetship opportunities (2025)
