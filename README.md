@@ -1,4 +1,4 @@
-# Hi, I'm Hans 👋
+# Howdy, I'm Hans 👋
 
 I'm a 2nd-year Computer Science Honours student at Flinders University in Adelaide. I’m curious about many areas of computer science, so my projects tend to explore a bit of everything, from web development and data collection to software systems and automation. I enjoy learning new technologies and tackling challenging, rewarding problems. This is where I share my projects — follow along as I continue my academic journey! 🤌
 
